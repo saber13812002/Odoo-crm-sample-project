@@ -1,1 +1,1 @@
-本项目为《Odoo从入门到实战：Python开发ERP指南》这本书的第三篇：实战篇  的项目源码，具体的实现过程请参考该书。
+این پروژه کد منبع پروژه قسمت سوم کتاب "Odoo from entry to actual combat: Python ERP development guide": actual combat می باشد.برای فرآیند پیاده سازی خاص لطفا به این کتاب مراجعه کنید.
